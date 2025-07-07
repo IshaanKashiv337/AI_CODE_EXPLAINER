@@ -1,0 +1,7 @@
+This project presents a fully offline, AI-driven tool designed to make learning Python programming easier and to enhance code understanding for beginners.
+Leveraging the GPT-Neo 125M model from HuggingFace, it analyzes Python code and generates clear, beginner-friendly explanations—all without needing internet access.
+The application uses Streamlit to offer an interactive user interface and PyTorch for efficient local model execution on CPU-based systems.
+With a focus on privacy, it is well-suited for educational environments like classrooms, coding bootcamps, or self-learners seeking real-time code insights.
+The tool can interpret a wide range of Python structures, including loops, functions, and conditionals, effectively explaining both simple and moderately complex logic.
+Since it runs without any external API calls, it ensures better portability, faster response times, and complete data privacy.
+Whether you're a student troubleshooting assignments or an instructor demonstrating code offline, this lightweight solution acts as a smart, educational assistant powered by open-source language models.
